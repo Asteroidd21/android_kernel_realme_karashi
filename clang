@@ -1,5 +1,8 @@
 #!/usr/bin/bash
 
+export KBUILD_BUILD_USER=Asteroid
+export KBUILD_BUILD_HOST=toenixzdump
+
 # init
 function init() {
     echo "==========================="
