@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usrbin/bash
 
 # init
 function init() {
