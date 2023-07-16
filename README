@@ -2,12 +2,10 @@ git clone https://github.com/Asteroidd21/android_kernel_realme_karashi kernel
 
 ## NOTES
 Kalau mau compile pakai clang bisa ikuti tutorial di bawah ini.
-cd kernel
 git clone --depth=1 https://github.com/kdrag0n/proton-clang clang
 chmod 777 clang atau sudo chmod 777 clang
 ./clang atau sudo bash clang
 
 Kalau mau compile pakai gcc bisa ikuti tutorial di bawah ini.
-cd kernel
 chmod 777 gcc atau sudo chmod 777 gcc
 ./gcc atau sudo bash clang
