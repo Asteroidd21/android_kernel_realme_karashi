@@ -8,4 +8,4 @@ chmod 777 clang atau sudo chmod 777 clang
 
 Kalau mau compile pakai gcc bisa ikuti tutorial di bawah ini.
 chmod 777 gcc atau sudo chmod 777 gcc
-./gcc atau sudo bash clang
+./gcc atau sudo bash gcc
